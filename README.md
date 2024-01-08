@@ -25,4 +25,4 @@ This project focuses on building a comprehensive data warehouse for HR and Sales
 - Implemented stored procedures to optimize the movement of data from the staging database to the data warehouse.
 
 ## Database Table Example
-![Uploading Screenshot 2024-01-08 143336.png…]()
+![Screenshot 2024-01-08 143336](https://github.com/Bishworajkdk/ADW_DW_2014/assets/42015144/bdc74991-2df9-4f44-945f-88ff2dcff017)
