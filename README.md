@@ -24,8 +24,5 @@ This project focuses on building a comprehensive data warehouse for HR and Sales
 ### 5. Stored Procedure Utilization
 - Implemented stored procedures to optimize the movement of data from the staging database to the data warehouse.
 
-### 6. Next Steps
-- Future phases will involve creating a tabular cube for efficient analysis and developing reports for HR and Sales departments.
-
 ## Database Table Example
 ![Uploading Screenshot 2024-01-08 143336.png…]()
